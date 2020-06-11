@@ -43,11 +43,3 @@ class _HelloRectangle extends StatelessWidget {
     );
   }
 }
-/*Text('Hello World!!',
-          style:TextStyle(
-            fontSize: 40,
-            color: Color.fromARGB(255, 255, 255, 1),
-          ) ,),
-          color: CupertinoColors.activeGreen,
-          width: 300.0,
-          height: 400.0*/
